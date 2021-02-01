@@ -1,1 +1,14 @@
-# mans_cv
+# Mans CV
+
+
+# Izglītība
+
+
+# Sasniegumi
+
+
+# Hobiji
+
+
+# Pieredze programmēšanā
+

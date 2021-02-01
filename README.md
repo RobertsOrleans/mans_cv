@@ -1,14 +1,16 @@
 # Mans CV
+## Personīgie dati
+Vārds, uzvārds: Roberts Orleans
+E-pasts: robertsorleans@gmail.com
+
+## Izglītība
 
 
-# Izglītība
+## Sasniegumi
 
 
-# Sasniegumi
+## Hobiji
 
 
-# Hobiji
-
-
-# Pieredze programmēšanā
+## Pieredze programmēšanā
 

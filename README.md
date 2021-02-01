@@ -1,7 +1,7 @@
 # Mans CV
 ## Personīgie dati
 Vārds, uzvārds: Roberts Orleans
-![Mana Bilde](/Pictures/Mana bilde.jpg)
+![Mana bilde](https://user-images.githubusercontent.com/78017358/106465738-0c13c080-64a3-11eb-8039-93ab9fe0c4cf.jpg)
 E-pasts: robertsorleans@gmail.com
 
 ## Izglītība

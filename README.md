@@ -8,7 +8,8 @@ E-pasts: robertsorleans@gmail.com
 2010 - 2020: Andreja Pumpura Rīgas 11. pamatskola
 
 ## Sasniegumi
-
+Pašlaik nav nekādu nozīmīgu sasniegumu saistīti ar programmēšanu.
+Esmu ieguvis pirmo vietu skolu Angļu valodas un Matemātiks olimpiādēs un piedalījies pilsētas olimpiādēs vairākas reizes.
 
 ## Hobiji
 

@@ -12,7 +12,8 @@ Pašlaik nav nekādu nozīmīgu sasniegumu saistīti ar programmēšanu.
 Esmu ieguvis pirmo vietu skolu Angļu valodas un Matemātiks olimpiādēs un piedalījies pilsētas olimpiādēs vairākas reizes.
 
 ## Hobiji
-
+Brīvajā laikā nodarbojos ar 3D modeļu veidošanu, video spēļu spēlēšanu, kā arī grāmatu lasīšanu.
+Ar draugu veidojam savu spēlu, kad varam.
 
 ## Pieredze programmēšanā
 

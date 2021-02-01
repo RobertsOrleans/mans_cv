@@ -1,6 +1,7 @@
 # Mans CV
 ## Personīgie dati
 Vārds, uzvārds: Roberts Orleans
+![Mana Bilde](/Pictures/Mana bilde.jpg)
 E-pasts: robertsorleans@gmail.com
 
 ## Izglītība
@@ -19,3 +20,6 @@ Ar draugu veidojam savu spēlu, kad varam.
 Skolā esmu apguvis mazliet Python un git.
 Esmu uzsācis veidot spēli Roblox vidē ar draugu.
 Un piedalījos programmēšanas un animācijas pulciņā uz dažiem gadiem.
+
+## Intereses
+Nākotnē es vēlētos veidot video spēles vai nodarboties ar datoriku programmējot.

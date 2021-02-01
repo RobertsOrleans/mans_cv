@@ -16,4 +16,6 @@ Brīvajā laikā nodarbojos ar 3D modeļu veidošanu, video spēļu spēlēšanu
 Ar draugu veidojam savu spēlu, kad varam.
 
 ## Pieredze programmēšanā
-
+Skolā esmu apguvis mazliet Python un git.
+Esmu uzsācis veidot spēli Roblox vidē ar draugu.
+Un piedalījos programmēšanas un animācijas pulciņā uz dažiem gadiem.
